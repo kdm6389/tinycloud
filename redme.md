@@ -41,4 +41,5 @@ to initiall support linageos
 
 linageos + my.personal.tiny.cloud.framework.app,rxtx
 
+key must be 4K (bits) (private) and  must excahnge physically  
 
